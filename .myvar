@@ -1,0 +1,5 @@
+export PATH=$PATH:/usr/local/pgsql/bin:/home/henkbl/liquibase
+
+export EDITOR=vim
+export HISTFILESIZE=
+export HISTSIZE=
